@@ -1,0 +1,2 @@
+# ota-cass
+Amplificador Operacional
